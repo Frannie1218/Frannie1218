@@ -19,7 +19,7 @@
 <div align="center">
   <h3>📈 Contribution Activity</h3>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Frannie1218&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Frannie1218's%20Contribution%20Graph&v=1" />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Frannie1218&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Frannie1218's%20Contribution%20Graph&v=3" />
   </a>
 </div>
 
@@ -28,8 +28,8 @@
 <!-- ==================== 核心数据卡片 ==================== -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Frannie1218&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&v=1" />
-  <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Frannie1218&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=8&v=1" />
+  <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Frannie1218&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&v=3" />
+  <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Frannie1218&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=8&v=3" />
 </div>
 
 <br/>
@@ -38,7 +38,7 @@
 <div align="center">
   <h3>🏆 Trophy Wall</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-kappa.vercel.app/?username=Frannie1218&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true&v=1" />
+    <img src="https://github-profile-trophy-kappa.vercel.app/?username=Frannie1218&theme=onedark&column=7&margin-w=15&no-bg=true&no-frame=true&v=3" />
   </a>
 </div>
 
